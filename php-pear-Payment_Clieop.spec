@@ -42,7 +42,6 @@ install -m 644 %{upstream_name}.xml %{buildroot}%{_datadir}/pear/packages
 
 
 %files
-%{_datadir}/pear/%{upstream_name}
 %{_datadir}/pear/%{_class}
 %{_datadir}/pear/packages/%{upstream_name}.xml
 %{_datadir}/pear/data/%{upstream_name}
