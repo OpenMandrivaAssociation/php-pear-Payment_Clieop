@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.2.0
-Release:	1
+Release:	2
 Summary:	Create clieop03 file to send to Dutch Bank
 License:	PHP License
 Group:		Development/PHP
