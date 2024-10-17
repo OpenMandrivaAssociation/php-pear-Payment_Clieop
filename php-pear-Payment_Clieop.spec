@@ -8,7 +8,7 @@ Release:	2
 Summary:	Create clieop03 file to send to Dutch Bank
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Payment_Clieop/
+URL:		https://pear.php.net/package/Payment_Clieop/
 Source0:	http://download.pear.php.net/package/Payment_Clieop-%{version}.tgz
 Requires(post): php-pear
 Requires(preun): php-pear
